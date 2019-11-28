@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="almanac" version="1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.1">
 
-    <name>Almanac</name>
+    <name>The New Philippine Almanac - Millennial Edition</name>
     <description>
-         Communication and the Basic Grammar Principles
+        Events of Note, Culture and Geography, and Contemporary Society
     </description>
 
    <content src="index.html" />
